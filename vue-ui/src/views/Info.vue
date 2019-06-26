@@ -1,12 +1,12 @@
 <template>
     <div>
-        This is Info Page
+        This is Info component
     </div>
 </template>
 
 <script>
 export default {
-    
+    name:"Info",
 }
 </script>
 
